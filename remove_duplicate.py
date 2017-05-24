@@ -1,4 +1,5 @@
 """
+DAY 1
 Remove duplicate in a sorted list - Interview prep
 Problem from InterviewBit
 """
