@@ -1,5 +1,6 @@
 """
 DAY 1
+May 23rd, 2017
 Remove duplicate in a sorted list - Interview prep
 Problem from InterviewBit
 """
