@@ -6,7 +6,7 @@
 // Big Oh: O(n^2)
 import java.util.ArrayList;
 
-public class DayTwo_AddOneToNumber {
+public class Day2_AddOneToNumber {
 
 	public ArrayList<Integer> plusOne(ArrayList<Integer> a) {
 		// If vector has [1, 2, 3]
@@ -87,7 +87,7 @@ public class DayTwo_AddOneToNumber {
 		a1.add(9);
 		a1.add(9);
 		a1.add(9);
-		DayTwo_AddOneToNumber c = new DayTwo_AddOneToNumber();
+		Day2_AddOneToNumber c = new Day2_AddOneToNumber();
 		System.out.println(c.plusOne(a1));
 	}
 }
