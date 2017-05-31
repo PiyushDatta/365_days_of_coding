@@ -1,5 +1,5 @@
 
-// Day 6 - Hamming Distance (find the points on the  
+// Day 7 - Hamming Distance (find the points on the  
 // binary representations of the numbers that are different) 
 // May 29th, 2017
 // Leetcode.com
