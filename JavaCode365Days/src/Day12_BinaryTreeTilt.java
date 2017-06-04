@@ -35,6 +35,7 @@ public class Day12_BinaryTreeTilt {
         root1.right.right = new Day12_TreeNodeForTilt(5);
 //        root1.right.right.right = new Day12_TreeNodeForTilt(3);
         System.out.println(c.findTilt(root1));
+        // Should output 11
 
     }
 }
