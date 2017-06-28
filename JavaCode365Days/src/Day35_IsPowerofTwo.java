@@ -11,7 +11,6 @@ public class Day35_IsPowerofTwo {
 	    return ((Math.log(n) / Math.log(2)) % 1 <= 0.000000001);
 	}
 
-
     public static void main(String[] args) {
         Day35_IsPowerofTwo c = new Day35_IsPowerofTwo();
         int s1 = 32;
