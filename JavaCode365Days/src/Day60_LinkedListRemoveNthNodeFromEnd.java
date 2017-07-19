@@ -3,7 +3,7 @@
 // July 21st, 2017
 // Leetcode.com
 // Under algorithms section
-// Big O: Time complexity: O(logn), Space complexity: O(1), 16ms Solution
+// Big O: Time complexity: O(n), Space complexity: O(1), 16ms Solution
 
 import java.util.*;
 
